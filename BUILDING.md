@@ -221,7 +221,7 @@ Consult previous versions of this document for older versions of Node.js:
 
 ### Note about Python
 
-The Node.js project supports Python >= 3 for building and testing.
+The Node.js project supports Python >= 3.6 for building and testing.
 
 ### Unix and macOS
 
